@@ -3,7 +3,7 @@ Babel==2.14.0
 beautifulsoup4==4.12.3
 black==24.3.0
 bleach==6.1.0
-build==1.1.1
+build==1.2.1
 certifi==2024.2.2
 cffi==1.16.0
 charset-normalizer==3.3.2
